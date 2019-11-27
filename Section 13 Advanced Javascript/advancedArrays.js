@@ -1,4 +1,4 @@
-// Advanced Arrays
+//// Advanced Arrays
 
 // (old way)
 const array = [1, 2, 10, 16];
